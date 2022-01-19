@@ -9,7 +9,7 @@ You can now run the main in main.py after entering you're bot's token in the pla
 Head to discord.com/developers/applications and copy you're own discord bot token and paste it there.
 
 # More info
-If you have any doubts feel free to contact Dragonslayer ⚡#5029.
+If you have any doubts feel free to contact Dragonslayer ⚡#6969 via discord.
 My discord server >>> https://discord.gg/jYgM5EQfTx
 Feel free to contact me via my server/dms
 
